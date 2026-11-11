@@ -1,0 +1,14 @@
+# Variables de entorno secretas
+.env
+
+# Ejecutables de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server
+
+# Binarios generados
+/bin
+/dist
